@@ -2,12 +2,10 @@
 
 `mylittleweatherbot` is follows the quickstart tutorial provided in the Node.js SDK for [Wit.ai](https://wit.ai).
 
-## Install
-
-In your Node.js project, run:
+## Install Dependencies
 
 ```bash
-npm install --save node-wit
+npm install
 ```
 
 ## Run
