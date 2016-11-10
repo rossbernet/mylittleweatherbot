@@ -1,6 +1,6 @@
 # Wit Node.js WeatherBot
 
-`mylittleweatherbot` is follows the quickstart tutorial provided in the Node.js SDK for [Wit.ai](https://wit.ai).
+`mylittleweatherbot` follows the quickstart tutorial provided in the Node.js SDK for [Wit.ai](https://wit.ai).
 
 ## Install Dependencies
 
